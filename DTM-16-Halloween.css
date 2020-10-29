@@ -139,3 +139,89 @@ background-color: #292929
 .panels-j1Uci_ .panel-24C3ux .button-14-BFJ:last-of-type{
   background-color: #333333
 }
+.scroller-2LSbBU::-webkit-scrollbar-track, .contentRegionScroller-26nc1e::-webkit-scrollbar-track {
+    background-color:#2b2b2b
+}
+.scroller-2LSbBU::-webkit-scrollbar-thumb, .contentRegionScroller-26nc1e::-webkit-scrollbar-thumb {
+    background-color:#222
+}
+.selected-1GqIat {
+    background: #444
+}
+.selected-1GqIat path {
+    fill: #bbb
+}
+.theme-dark .container-3ayLPN {
+    background: #353535
+}
+.theme-dark .option-96V44q:after {
+    background: linear-gradient(90deg,rgba(54,57,63,0),#353535 80%);
+}
+.theme-dark .option-96V44q.selected-rZcOL- {
+    background: #222
+}
+.theme-dark .option-96V44q.selected-rZcOL-:after {
+    background: linear-gradient(90deg,rgba(35,38,42,0),#222 50%);
+}
+.theme-dark .focused-2bY0OD {
+    background: #222
+}
+.theme-dark .dim-1l4L4y span {
+    background: #666;
+    color: #bbb
+}
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker {
+    background: #353535;
+}
+.theme-dark .datePicker--XZbmJ .datePickerHint-3Q1Udw .hintValue-29ny8Z, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--selected:after {
+    background: #e27813
+}
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled:hover,
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--disabled, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--outside-month {
+    background: #282828
+}
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day {
+    border-color: #111;
+}
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__week:last-of-type .react-datepicker__day {
+    border-bottom-color:#111;
+}
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__header {
+    background: #353535
+}
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__week .react-datepicker__day:last-of-type {
+    border-right-color:#111;
+}
+.recentMentionsPopout-3rCiI6 .header-2-Imhb .tabBar-1kuXvJ .tab-ck0077.active-1MbGPa {
+    border-bottom-color: #e27813 !important;
+}
+.theme-dark .root-1gCeng, .theme-dark .perksModal-fSYqOq, .theme-dark .tierMarkerBackground-3q29am {
+    background: var(--background-primary)
+}
+.theme-dark .perk-2WeBWW, .theme-dark .bottomDivider-1K9Gao, .theme-dark .paginator-166-09, .theme-dark .codeRedemptionRedirect-1wVR4b, .theme-dark .userSettingsVoice-iwdUCU .previewOverlay-2O7_KC {
+    background: var(--background-secondary)
+}
+.theme-dark .expandedInfo-3kfShd {
+    background: var(--background-tertiary)
+}
+.theme-dark .bottomDivider-1K9Gao:hover, .theme-dark .bar-2Qqk5Z {background:var(--background-secondary-alt)}
+.input-cIJ7To.focused-1mmYsC, .input-cIJ7To:focus {border-color:#e27813}
+.option-n0icdO:hover {background:#e2781366}
+.selected-mKYnfr.option-n0icdO {background:#e27813;border-color:#e27813}
+.wrapper-3jrx9n {border-color:#e27813}
+.container-1giJp5>.directionRow-3v3tfG>.flex-1xMQg5 {background:#2F2F2F}
+.container-1giJp5>.directionRow-3v3tfG>.flex-1xMQg5 .button-14-BFJ:active {background:#333!important}
+.actionButtons-14eAc_ .button-1YfofB[disabled] {background:#2b2b2b!important}
+.container-1giJp5>.directionRow-3v3tfG>button:first-of-type, .button-14-BFJ:first-of-type {border-bottom-color:#232323;border-right-color:#171717}
+.container-1giJp5>.directionRow-3v3tfG>button:last-of-type, .button-14-BFJ:last-of-type {border-bottom-color:#232323}
+.actionButtons-14eAc_ .button-1YfofB:not(disabled) {background:#2f2f2f!important}
+.actionButtons-14eAc_ .button-1YfofB:not(disabled):active {background:#333!important}
+.actionButtons-14eAc_ .button-1YfofB:not(disabled):first-of-type {border-right-color:#171717;border-bottom-color:#232323}
+.actionButtons-14eAc_ .button-1YfofB:not(disabled):last-of-type {border-bottom-color:#232323}
+.actionButtons-14eAc_ .disabledButtonWrapper-3wH6-b:before, .wrapper-3EGhDO .disabledButtonWrapper-3wH6-b:before {background:#e27813}
+.item-1tOPte.colorBrand-ROmMP1 {color:#e27813!important}
+.container-2Pjhx-.selected-aXhQR6 {box-shadow: inset 2px 0 #e27813}
+.colorDefault-2K3EoJ .checkbox-3s5GYZ, .colorDefault-2K3EoJ .radioSelection-1HmrQS {color:#e27813}
+.cursorPonter-YEp76E.title-29uC1r.base-1x0h_U.size16-1P40sf:before, .title-29uC1r.base-1x0h_U.size16-1P40sf:before {color:#888}
+.message-2qnXI6 .scrollableContainer-2NUZem {border-color:#e27813}
+.operations-36ENbA>a {color:#e27813bb}
