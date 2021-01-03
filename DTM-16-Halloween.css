@@ -45,7 +45,6 @@
     --deprecated-text-input-border-disabled: #202225;
     --deprecated-text-input-prefix: #dcddde;
 }
-
 .wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9, .wrapper-1BJsBx:hover .childWrapper-anI2G9 {
     background: #f17d0e
 }
@@ -228,3 +227,24 @@ background-color: #292929
 .updateIconForeground-3tnNZn {
     fill: #e27813bb;
 }
+.scroller-1JbKMe .container-2Pjhx-[href="/channels/@me"].selected-aXhQR6 .avatar-3uk_u9 {
+    background-color: #ce6e12;
+}
+.searchBar-6Kv8R2 {
+    background-color: #313131;
+}
+.container-1D34oG .actionButton-uPB8Fs {
+    background: #292929;
+}
+.scroller-RmtA4e {
+    background-color: #292929;
+}
+.clickable-25tGDB .header-2V-4Sw {
+    background: #292929;
+}
+.clickable-25tGDB .header-2V-4Sw:hover, .clickable-25tGDB.selected-31Nl7x .header-2V-4Sw {
+    background: #25272d !important;
+}
+.clickable-25tGDB .header-2V-4Sw:hover, .clickable-25tGDB.selected-31Nl7x .header-2V-4Sw {background: #262626}
+.sidebar-2K8pFh .clickable-1JJAn8.container-2Pjhx-:hover, .sidebar-2K8pFh .clickable-1JJAn8.container-2Pjhx-:active {color: #DCDDDE !important;background:linear-gradient(to right,#353535 85%,#333333)!important;box-shadow:inset 2px 0 #ce6e12}
+.wrapper-2jXpOf.modeSelected-346R90 .content-1x5b-n,.wrapper-2jXpOf.modeSelected-346R90 .content-1x5b-n:hover {box-shadow: inset 2px 0 0 #ce6e12 !important;background: linear-gradient(to right,#353535 85%,#333333) !important}
